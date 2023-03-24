@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="3.0">
+    <name>GNZ11</name>
+    <libraryname>GNZ11</libraryname>
+    <author>Gartes</author>
+    <copyright>2022 (C) Gartes</copyright>
+    <license>GNU/GPLv3</license>
+    <authorEmail>sad.net79@gmail.com</authorEmail>
+    <authorUrl>https://github.com/gartes/GNZ11#readme</authorUrl>
+    <creationDate>24.01.23-22:55</creationDate>
+    <version>0.6.11</version>
+    <debug>1</debug>
+    <description>Library GN-z11 by Gartes</description>
+    <files>
+        <folder>assets</folder>
+        <file>gnz11.xml</file>
+        <file>GNZ11_update_server.xml</file>
+        <file>README.md</file>
+    </files>
+
+    <updateservers>
+        <!-- Note: No spaces or linebreaks allowed between the server tags -->
+        <server type="extension" enabled="1" priority="1" name="Lib GNZ11 Update Site">https://raw.githubusercontent.com/gartes/GNZ11/master/GNZ11_update_server.xml</server>
+    </updateservers>
+</extension>

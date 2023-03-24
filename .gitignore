@@ -1,0 +1,16 @@
+bash
+Copy code
+# Ignored files and directories in the root of the repository
+.idea/
+
+# Ignored files and directories in the "vendor" directory
+vendor/
+
+# Ignore the composer lock file
+composer.lock
+
+# Ignore any log files
+*.log
+
+# Ignore any cache files
+*.cache
