@@ -2,7 +2,7 @@
 <extension type="library" method="upgrade" version="3.0">
     <name>Icarus</name>
     <libraryname>Icarus</libraryname>
-    <author>Gartes</author>
+    <author>Dr.Gartes</author>
     <copyright>(C) Gartes</copyright>
     <license>GNU/GPLv3</license>
     <authorEmail>gartes.dev@gmail.com</authorEmail>
