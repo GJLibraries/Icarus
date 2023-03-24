@@ -13,8 +13,10 @@
     <description>Library Icarus by Gartes</description>
     <files>
         <folder>assets</folder>
-        <file>update.xml</file>
+        <file>icarus.xml</file>
         <file>README.md</file>
+        <file>update.xml</file>
+
     </files>
 
     <updateservers>

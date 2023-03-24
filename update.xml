@@ -3,7 +3,7 @@
         <name>Library Icarus By Gartes</name>
         <description>Library Icarus Js PHP</description>
         <type>library</type>
-        <element>Library</element>
+        <element>Icarus</element>
         <version>0.0.2</version>
         <client>0</client>
         <infourl title="Joomla!">https://github.com/gartes/GNZ11#readme</infourl>
